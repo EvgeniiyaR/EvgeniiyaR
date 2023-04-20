@@ -44,7 +44,20 @@
 
 ### :fire: My Stats :
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiyaR&layout=compact&theme=transparent" title="streak-stats" **alt="streak-stats"/><br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=EvgeniiyaR&theme=transparent&mode=weekly" title="streak-stats" **alt="streak-stats"/>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvgeniiyaR&theme=transparent&border_radius=&mode=weekly)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiyaR&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+### :paperclip: My projects:
+
+<div align="center">
+  <a href="https://github.com/EvgeniiyaR/how-to-learn"><img src="https://user-images.githubusercontent.com/82734654/233222232-4c588313-64af-4e9c-bdcf-d09b64f04466.png" title="How to learn" alt="How to learn" width="150" height="200"/></a>&nbsp;
+  <a href="https://github.com/EvgeniiyaR/russian-travel"><img src="https://user-images.githubusercontent.com/82734654/233221058-ce4404a0-6bcf-4908-aa55-713e02f60188.jpg" title="Russian Travel" alt="Russian Travel" width="350" height="200"/></a>&nbsp;
+  <a href="https://github.com/EvgeniiyaR/mesto"><img src="https://user-images.githubusercontent.com/82734654/233222604-5476da7f-9509-4d5f-ac18-7089a6b68cd9.png" title="Mesto" alt="Mesto" width="250" height="200"/></a>&nbsp;
+</div>
+
+
+
