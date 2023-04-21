@@ -74,6 +74,6 @@
 ### :fire: My Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiyaR&layout=compact&theme=transparent" title="streak-stats" **alt="streak-stats" height=196/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=EvgeniiyaR&theme=transparent&mode=weekly" title="streak-stats" **alt="streak-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiyaR&layout=compact&theme=transparent" title="streak-stats" **alt="streak-stats" width=300/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=EvgeniiyaR&theme=transparent&mode=weekly" title="streak-stats" **alt="streak-stats" height=165/>
 </div>
