@@ -23,10 +23,10 @@
     <p>:woman_student: My name is Evgeniia and I'm a beginner web/frontend developer.<p> 
     <table>
         <tr>
-          <td width=220>
+          <td width=230>
             <p>:mortar_board: I'm a student of Ya.Praktikum, on the course "Web Developer".<p>
           </td>
-          <td width=80>
+          <td width=100>
             <div align=center>
               <p>Learning progress: </p> <img src="https://progress-bar.dev/69/" alt="progress"/>
             </div>
