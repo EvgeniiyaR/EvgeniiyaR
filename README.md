@@ -23,7 +23,7 @@
     <p>:woman_student: My name is Evgeniia and I'm a beginner web/frontend developer.<p> 
     <table>
         <tr>
-          <td width=230>
+          <td width=220>
             <p>:mortar_board: I'm a student of Ya.Praktikum, on the course "Web Developer".<p>
           </td>
           <td width=100>
