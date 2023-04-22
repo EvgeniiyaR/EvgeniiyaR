@@ -26,7 +26,7 @@
           <td width=280>
             <p>:mortar_board: I'm a student of Ya.Praktikum, on the course "Web Developer".<p>
           </td>
-          <td>
+          <td width=100>
             <div align=center>
               <p>Learning progress: </p> <img src="https://progress-bar.dev/69/" alt="progress"/>
             </div>
