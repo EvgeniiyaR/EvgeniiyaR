@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=EvgeniiyaR&style=flat-square&color=blue" alt=""/>
   </td>
   
-  <td width=300>
+  <td width=350>
     <h1>
       hey there
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
@@ -23,7 +23,7 @@
     <p>:woman_student: My name is Evgeniia and I'm a beginner web/frontend developer.<p> 
     <table>
         <tr>
-          <td width=220>
+          <td width=200>
             <p>:mortar_board: I'm a student of Ya.Praktikum, on the course "Web Developer".<p>
           </td>
           <td width=100>
