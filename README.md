@@ -28,7 +28,7 @@
           </td>
           <td width=100>
             <div align=center>
-              <p>Learning progress: </p> <img src="https://progress-bar.dev/74/" alt="progress"/>
+              <p>Learning progress: </p> <img src="https://progress-bar.dev/82/" alt="progress"/>
             </div>
           </td>
         </tr>  
@@ -37,6 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
@@ -53,6 +54,18 @@
           </tr>
         </thead>
         <tbody>
+         <tr>
+            <td>
+              <details>
+                <summary><a href="https://github.com/EvgeniiyaR/react-mesto-auth" target="_blank">Mesto React</a></summary>
+                <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
+                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
+                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
+                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
+              </details>
+            </td>
+            <td>in process</td>
+          </tr>
           <tr>
             <td>
               <details>
@@ -62,7 +75,7 @@
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </details>
             </td>
-            <td>in process</td>
+            <td>done</td>
           </tr>
           <tr>
             <td>
