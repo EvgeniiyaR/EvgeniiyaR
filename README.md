@@ -122,7 +122,7 @@
           <tr>
             <td>
               <details>
-                <summary><a href="http://a0803248.xsph.ru/" target="_blank">PetShop</a></summary>
+                <summary><a href="http://a0825699.xsph.ru/" target="_blank">PetShop</a></summary>
                 <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
                 <img src="https://img.shields.io/badge/-PHP-darkblue" alt="PHP"/>&nbsp;
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
