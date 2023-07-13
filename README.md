@@ -28,7 +28,7 @@
           </td>
           <td width=100>
             <div align=center>
-              <p>Learning progress: </p> <img src="https://progress-bar.dev/82/" alt="progress"/>
+              <p>Learning progress: </p> <img src="https://progress-bar.dev/93/" alt="progress"/>
             </div>
           </td>
         </tr>  
