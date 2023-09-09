@@ -1,5 +1,5 @@
 <table align=center>
- <tr>
+ <tr> 
   <td align="center">
     <div id="header">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBjNjA1YmFjMTBlM2NmYjExYzY0ZDY0MzY4MTEwZjk1N2Y4ZDk5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="cat-coding" width="200"/>
