@@ -1,6 +1,10 @@
 <table align=center>
  <tr> 
   <td align="center">
+    <h1>
+      hey there
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+    </h1>
     <div id="header">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBjNjA1YmFjMTBlM2NmYjExYzY0ZDY0MzY4MTEwZjk1N2Y4ZDk5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="cat-coding" width="200"/>
     </div>
@@ -12,36 +16,19 @@
         <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
       </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=EvgeniiyaR&style=flat-square&color=blue" alt=""/>
-  </td>
-  
-  <td width=350>
-    <h1>
-      hey there
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-    </h1>
-    <p>:woman_student: My name is Evgeniia and I'm a beginner web/frontend developer.<p> 
-    <table>
-        <tr>
-          <td width=200>
-            <p>:mortar_board: I'm a student of Ya.Praktikum, on the course "Web Developer".<p>
-          </td>
-          <td width=100>
-            <div align=center>
-              <p>Learning progress: </p> <img src="https://progress-bar.dev/93/" alt="progress"/>
-            </div>
-          </td>
-        </tr>  
-    </table>
-    <h3>:hammer_and_wrench: Languages and Tools:<h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>   
+     <img src="https://komarev.com/ghpvc/?username=EvgeniiyaR&style=flat-square&color=blue" alt="Badge"/>
+    <div>
+     <p>:woman_student: My name is Evgeniia and I'm a beginner web/frontend developer.<p>
+     <h3>:hammer_and_wrench: Languages and Tools:<h3>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
+    </div>
   </td>
       
   <td width=250>
