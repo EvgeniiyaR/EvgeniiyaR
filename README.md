@@ -51,7 +51,7 @@
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </details>
             </td>
-            <td>in process</td>
+            <td>done</td>
           </tr>
           <tr>
             <td>
