@@ -1,10 +1,10 @@
 <table align=center>
  <tr> 
   <td align="center">
-    <h1>
-      hey there
+    <p>
+      <b>hey there</b>
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-    </h1>
+    </p>
     <div id="header">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBjNjA1YmFjMTBlM2NmYjExYzY0ZDY0MzY4MTEwZjk1N2Y4ZDk5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="cat-coding" width="200"/>
     </div>
@@ -19,7 +19,7 @@
      <img src="https://komarev.com/ghpvc/?username=EvgeniiyaR&style=flat-square&color=blue" alt="Badge"/>
     <div>
      <p>:woman_student: My name is Evgeniia and I'm a beginner web/frontend developer.</p>
-     <h3>:hammer_and_wrench: Languages and Tools:</h3>
+     <p><b>:hammer_and_wrench: Languages and Tools:</b></p>
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@
   </td>
       
   <td width=250>
-    <h3>:paperclip: My projects:</h3>
+    <p><b>:paperclip: My projects:</b></p>
       <table>
         <thead>
           <tr>
@@ -41,6 +41,18 @@
           </tr>
         </thead>
         <tbody>
+         <tr>
+            <td>
+              <details>
+                <summary><a href="https://github.com/EvgeniiyaR/movies-explorer-frontend" target="_blank">Movies</a></summary>
+                <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
+                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
+                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
+                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
+              </details>
+            </td>
+            <td>done</td>
+          </tr>
          <tr>
             <td>
               <details>
