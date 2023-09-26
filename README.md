@@ -41,6 +41,18 @@
           </tr>
         </thead>
         <tbody>
+          <tr>
+            <td>
+              <details>
+                <summary><a href="https://github.com/EvgeniiyaR/e-commerce-app-mediformula" target="_blank">Mediformula</a></summary>
+                <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
+                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
+                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
+                <img src="https://img.shields.io/badge/-SASS-white" alt="SASS"/>
+              </details>
+            </td>
+            <td>done</td>
+          </tr>
          <tr>
             <td>
               <details>
