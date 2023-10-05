@@ -43,14 +43,38 @@
           </tr>
         </thead>
         <tbody>
+         <tr>
+            <td>
+              <details>
+                <summary><a href="" target="_blank">TableOfUsers</a></summary>
+                <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
+                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
+                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
+                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
+              </details>
+            </td> 
+            <td>done</td>
+          </tr>
+          <tr>
+            <td>
+              <details>
+                <summary><a href="" target="_blank">Blog</a></summary>
+                <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
+                <img src="https://img.shields.io/badge/-TS-blue" alt="TS"/>&nbsp;
+                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
+                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
+              </details>
+            </td> 
+            <td>done</td>
+          </tr>
           <tr>
             <td>
               <details>
                 <summary><a href="https://github.com/EvgeniiyaR/e-commerce-app-mediformula" target="_blank">Mediformula</a></summary>
                 <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
-                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
+                <img src="https://img.shields.io/badge/-TS-blue" alt="TS"/>&nbsp;
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
-                <img src="https://img.shields.io/badge/-SASS-white" alt="SASS"/>
+                <img src="https://img.shields.io/badge/-SASS-pink" alt="SASS"/>
               </details>
             </td>
             <td>done</td>
@@ -130,18 +154,6 @@
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </details>
             </td>
-            <td>done</td>
-          </tr>
-          <tr>
-            <td>
-              <details>
-                <summary><a href="http://a0825699.xsph.ru/" target="_blank">PetShop</a></summary>
-                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
-                <img src="https://img.shields.io/badge/-PHP-darkblue" alt="PHP"/>&nbsp;
-                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
-                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
-              </details>
-            </td> 
             <td>done</td>
           </tr>
         </tbody>      
