@@ -46,7 +46,7 @@
          <tr>
             <td>
               <details>
-                <summary><a href="" target="_blank">TableOfUsers</a></summary>
+                <summary><a href="https://github.com/EvgeniiyaR/Aton-test-front" target="_blank">TableOfUsers</a></summary>
                 <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
                 <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
@@ -58,7 +58,7 @@
           <tr>
             <td>
               <details>
-                <summary><a href="" target="_blank">Blog</a></summary>
+                <summary><a href="https://github.com/EvgeniiyaR/Greenatom-test-front-extra" target="_blank">Blog</a></summary>
                 <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
                 <img src="https://img.shields.io/badge/-TS-blue" alt="TS"/>&nbsp;
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
